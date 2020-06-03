@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jacobcportfolio/static/css/main.5f361e03.chunk.css",
+    "main.js": "/jacobcportfolio/static/js/main.390ab266.chunk.js",
+    "main.js.map": "/jacobcportfolio/static/js/main.390ab266.chunk.js.map",
+    "runtime-main.js": "/jacobcportfolio/static/js/runtime-main.cff2bc6a.js",
+    "runtime-main.js.map": "/jacobcportfolio/static/js/runtime-main.cff2bc6a.js.map",
+    "static/js/2.39dc1951.chunk.js": "/jacobcportfolio/static/js/2.39dc1951.chunk.js",
+    "static/js/2.39dc1951.chunk.js.map": "/jacobcportfolio/static/js/2.39dc1951.chunk.js.map",
+    "index.html": "/jacobcportfolio/index.html",
+    "precache-manifest.e344882401ba5839f4325e9d8416a87f.js": "/jacobcportfolio/precache-manifest.e344882401ba5839f4325e9d8416a87f.js",
+    "service-worker.js": "/jacobcportfolio/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/jacobcportfolio/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.39dc1951.chunk.js.LICENSE.txt": "/jacobcportfolio/static/js/2.39dc1951.chunk.js.LICENSE.txt",
+    "static/media/productCurvyLines.png": "/jacobcportfolio/static/media/productCurvyLines.3a1df6c1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cff2bc6a.js",
+    "static/js/2.39dc1951.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.390ab266.chunk.js"
+  ]
+}
